@@ -1,4 +1,5 @@
-#!\bin\bash
-touch /etc/passwd
+#!/bin/bash
 cat /etc/passwd
+
+
 
